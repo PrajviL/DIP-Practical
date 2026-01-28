@@ -16,12 +16,12 @@ figure;
 
 subplot(1,3,1);
 imshow(img);
-title('Original Image");
+title('Original Image');
 
 subplot(1,3,2);
 imshow(dark_img);
-title('Darkened Image");
+title('Darkened Image');
 
 subplot(1,3,3);
 imshow(bright_img);
-title('Brightened Image");
+title('Brightened Image');
